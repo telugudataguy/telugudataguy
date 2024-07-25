@@ -1,5 +1,5 @@
 - 👋 Hi, I’m **@telugudataguy**
-- 👨🏽‍💻 I am a ***Data Engineer*** from ***India***.
+- 👨🏽‍💻 I am a **Data Engineer** from **India**.
 - 🌱 I’m currently learning open table formats like **Apache Iceberg**, **Apache Hudi** etc.
 
 ## Connect with me
